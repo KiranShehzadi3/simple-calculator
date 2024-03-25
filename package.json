@@ -11,6 +11,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "a5ki3-simple_calculator": "^2.0.0",
     "inquirer": "^9.2.16"
   },
   "devDependencies": {
